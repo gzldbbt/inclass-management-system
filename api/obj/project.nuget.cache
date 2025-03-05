@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYHVqjxhRD0=",
+  "success": true,
+  "projectFilePath": "/Users/liming/Desktop/inclass-01270/incalss-management-system/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/liming/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/liming/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
