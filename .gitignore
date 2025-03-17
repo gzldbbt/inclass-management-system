@@ -1,1 +1,18 @@
 .env
+#student management system
+
+## .Net Core
+
+- List the templates
+ ```shell
+dotnet new List
+```
+- Generate a new WebAPI
+```shell
+dotnet new web api -n {NAME}
+
+- Run api 
+```shell
+//got to project folder
+dotnet run
+```
